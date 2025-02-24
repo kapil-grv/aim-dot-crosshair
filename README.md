@@ -26,7 +26,9 @@ Aim Dot is a versatile crosshair overlay tool designed to enhance your aiming pr
 
 Downloading
 
-Download the latest version from Aim Dot on [itch.io](https://kapilgrv.itch.io/aim-dot-crosshair).
+Download the latest version from Aim Dot on:
+[itch.io](https://kapilgrv.itch.io/aim-dot-crosshair)
+[gamejolt.com](https://gamejolt.com/games/aim-dot/974485)
 
 Running the Application
 
